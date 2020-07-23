@@ -36,4 +36,4 @@ jobs:
         CI: true
 
     - name: test
-      run: make test
+      run: npm test
