@@ -1,3 +1,5 @@
-install: npm install
+install: 
+	npm install
 
-test: npx jest
+test: 
+	npx jest
