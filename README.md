@@ -1,10 +1,10 @@
 # hexlet-jest
 [![Actions Status](https://github.com/dpetruk/hexlet-jest/workflows/CI/badge.svg)](https://github.com/dpetruk/hexlet-jest/actions)
 
-###Install:
+### Install:
 
     make install
 
-###Run test:
+### Run test:
 
     make test
